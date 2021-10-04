@@ -27,6 +27,24 @@ Gdański Uniwersytet Medyczny
 
 - [01 - organizacja i projekty](c01.html)
 
+## Zadania domowe
+
+### Zadanie na 11.10
+
+* Zainstaluj PsychoPy
+* Zobacz (Jason Ozubko - Getting Started with PsychoPy, Part 1)[https://www.youtube.com/watch?v=GSv60zgQlB8&list=PL6PJquR5BWXllUt585cRJWcRTly55iXTm&index=1]
+
+### Zadanie na 18.10
+
+* W 2-3 osobowych grupach "projektowych" 
+* Postawcie (dowolne) pytanie badawcze
+* Zróbcie (ekspresowy) przegląd literatury
+* Znajdźcie co najmniej trzy artykuły (co najmniej dwa po angielsku, co najmniej jeden przeglądowy)
+* Zaprezentujcie, co jest w tych artykułach
+* Zróbcie podsumowanie i spróbujcie odpowiedzieć na pytanie badawcze
+
+
+
 
 # Organizacja
 
