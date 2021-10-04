@@ -23,6 +23,10 @@ Gdański Uniwersytet Medyczny
 - [01 - Organizacja](w01.html)
 - [02 - Powtórka z pierwszego roku](w02.html)
 
+## Ćwiczenia
+
+- [01 - organizacja i projekty](c01.html)
+
 
 # Organizacja
 
