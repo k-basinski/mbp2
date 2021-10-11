@@ -32,7 +32,7 @@ Gdański Uniwersytet Medyczny
 ### Zadanie na 11.10
 
 * Zainstaluj PsychoPy
-* Zobacz (Jason Ozubko - Getting Started with PsychoPy, Part 1)[https://www.youtube.com/watch?v=GSv60zgQlB8&list=PL6PJquR5BWXllUt585cRJWcRTly55iXTm&index=1]
+* Zobacz [Jason Ozubko - Getting Started with PsychoPy, Part 1](https://www.youtube.com/watch?v=GSv60zgQlB8&list=PL6PJquR5BWXllUt585cRJWcRTly55iXTm)
 
 ### Zadanie na 18.10
 
