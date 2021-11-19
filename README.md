@@ -24,6 +24,8 @@ Gdański Uniwersytet Medyczny
 - [02 - Powtórka z pierwszego roku](w02.html)
 - [03 - Eksperymenty, wprowadzenie](w03.html)
 - [04 - Plany proste](w04.html)
+- [05 - Powtarzany pomiar](w05.html)
+- [06 - Plany złożone](w06.html)
 
 ## Ćwiczenia
 
