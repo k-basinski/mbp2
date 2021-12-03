@@ -26,6 +26,7 @@ Gdański Uniwersytet Medyczny
 - [04 - Plany proste](w04.html)
 - [05 - Powtarzany pomiar](w05.html)
 - [06 - Plany złożone](w06.html)
+- [07 - Analiza planów złożonych (skrypt + dane)](07.zip), [sam skrypt]()
 
 ## Ćwiczenia
 
