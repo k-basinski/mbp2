@@ -61,5 +61,6 @@ ggplot(data = dane, mapping = aes(
 
 # ANOVA (analiza wariancji) dwuczynnikowa dla grup niezależnych
 # UWAGA: to działa dla grup niezależnych i równolicznych warunków eksp.
+
 aov(pamiec ~ pobudzenie + trudnosc + pobudzenie:trudnosc, data = dane) %>% 
   summary()
