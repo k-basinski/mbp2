@@ -29,6 +29,9 @@ Gdański Uniwersytet Medyczny
 - [07 - Analiza planów złożonych](plany_zlozone/analiza.zip)
 - [08 - RCT](w08.html)
 
+## Nagrania wykładów
+
+- [Analiza planów złożonych](https://youtu.be/9OMrcudz9YM)
 
 ## Ćwiczenia
 

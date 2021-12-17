@@ -98,7 +98,13 @@ ggplot(df4, aes(x = walencja, y = wynik)) +
 aov(wynik ~ pobudzenie + walencja + pobudzenie:walencja, data = df4) %>% 
   summary()
 
-
+# Istotny efekt prosty walencji dla niskiego pobudzenia
+# Istotny efekt prosty walencji dla wysokiego pobudzenia
+# Brak efektu prostego pobudzenia dla pozytywnej walencji
+# Brak efektu prostego pobudzenia dla negatywnej walencji
+# Istotny efekt główny walencji
+# Nieistotny efekt główny pobudzenia
+# Nieistotny efekt interakcji
 
 df5 <- read_csv("dane5.csv")
 
@@ -122,7 +128,13 @@ ggplot(df5, aes(x = walencja, y = wynik)) +
 aov(wynik ~ pobudzenie + walencja + pobudzenie:walencja, data = df5) %>% 
   summary()
 
-
+# Efekt prosty walencji przy niskim pobudzeniu
+# Brak efektu prostego walencji przy wysokim pobudzeniu
+# Efekt prosty pobudzenia przy pozytywnej walencji
+# Efekt prosty pobudzenia przy negatywnej
+# Brak efektu głównego pobudzenia
+# Efekt główny walencji
+# istotny efekt interakcji
 
 df6 <- read_csv("dane6.csv")
 
@@ -142,6 +154,14 @@ ggplot(df6, aes(x = pobudzenie, y = wynik)) +
 ggplot(df6, aes(x = walencja, y = wynik)) +
   geom_boxplot() + 
   geom_jitter(width = .1, alpha = .5)
+
+# Efekt prosty walencji przy niskim pobudzeniu
+# Efekt prosty walencji przy wysokim pobudzeniu
+# Efekt prosty pobudzenia przy negatywnej walencji
+# Efekt prosty pobudzenia przy pozytywnej walencji
+# Brak efektu głównego pobudzenia
+# Brak efektu głównego walencji
+# Istotny efekt interakcji
 
 aov(wynik ~ pobudzenie + walencja + pobudzenie:walencja, data = df6) %>% 
   summary()
