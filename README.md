@@ -36,6 +36,7 @@ Gdański Uniwersytet Medyczny
 ## Ćwiczenia
 
 - [01 - organizacja i projekty](c01.html)
+- [Przykładowy eksperyment do analizy](analiza_psychopy/analiza_psychopy.zip)
 
 ## Zadania domowe
 
