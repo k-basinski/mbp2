@@ -38,6 +38,8 @@ Gdański Uniwersytet Medyczny
 - [01 - organizacja i projekty](c01.html)
 - [Przykładowy eksperyment do analizy](analiza_psychopy/analiza_psychopy.zip)
 
+[Kryteria oceny projektów](kryteria_oceny_projektow)
+
 ## Zadania domowe
 
 ### Zadanie na 11.10

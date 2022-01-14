@@ -1,24 +1,32 @@
 # %%
 import numpy as np
 import pandas as pd
-
-
+import seaborn as sns
+import matplotlib.pyplot as plt
 # %%
 # config
-means = [1, 7, 7, 1]
+means = [10, 15, 1, 1]
 N = 30
-
-f1_name = 'pobudzenie'
-f2_name = 'walencja'
+make_plots = True
+reroll_distributions = False # roll new values for each level
+f1_name = 'kawa'
+f2_name = 'czekolada'
 dv_name = 'wynik'
 
-labels_factor1 = ['niski', 'wysoki']
-labels_factor2 = ['pozytywny', 'negatywny']
+labels_factor1 = ['tak', 'nie']
+labels_factor2 = ['tak', 'nie']
 
-fname = 'dane6.csv'
+fname = 'dane7.csv'
+plot_name = '../klasowki/plots/plot8.png'
 
 # work
-res = [np.random.normal(m, 1, N) for m in means]
+
+if reroll_distributions:
+    res = [np.random.normal(m, 1, N) for m in means]
+else:
+    distr = np.random.normal(0, 1, N)
+    res = [distr + m for m in means]
+
 dv = np.concatenate(res)
 
 f1 = np.repeat(labels_factor1, 2*N)
@@ -30,4 +38,10 @@ df = pd.DataFrame({
     dv_name: dv
 })
 
-df.to_csv(fname)
+if make_plots:
+    sns.boxplot(x=f1_name, y=dv_name, hue=f2_name, data=df)
+    plt.savefig(plot_name, dpi=200)
+else:
+    df.to_csv(fname)
+
+# %%

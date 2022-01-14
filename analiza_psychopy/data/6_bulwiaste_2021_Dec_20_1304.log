@@ -1,0 +1,113 @@
+2.2324 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+12.2807 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8338696ba8>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8336a73c88>, multiSample=False, name='window1', numSamples=2, pos=[320.0, 180.0], screen=0, size=array([2560, 1440]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.2812 	EXP 	window1: mouseVisible = True
+12.2813 	EXP 	window1: recordFrameIntervals = False
+12.3411 	EXP 	window1: recordFrameIntervals = True
+12.3542 	WARNING 	t of last frame was 8.33ms (=1/120)
+12.3891 	WARNING 	t of last frame was 7.22ms (=1/138)
+12.4125 	EXP 	window1: recordFrameIntervals = False
+15.2835 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Witaj w super badaniu. Wciśnij spację.', units='height', win=Window(...), wrapWidth=1)
+15.7717 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Ziemniaki czy buraki?', units='height', win=Window(...), wrapWidth=1)
+15.7948 	EXP 	window1: mouseVisible = True
+15.8048 	EXP 	Created slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-1, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelHeight=0.05, labelWrapWidth=None, labels=None, name='slider', opacity=None, pos=(0, -0.4), readOnly=False, self=UNKNOWN, size=(1.0, 0.1), startValue=None, style=method-wrapper(...), styleTweaks=method-wrapper(...), ticks=array([1, 2, 3, 4, 5]), units='height', win=Window(...))
+15.8106 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_5', opacity=1, ori=0.0, pos=array([ 0. , -0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.8161 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Super!', units='height', win=Window(...), wrapWidth=1)
+15.8241 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_4', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='To koniec super badania:(', units='height', win=Window(...), wrapWidth=1)
+15.8357 	EXP 	slider: autoLog = True
+15.8357 	EXP 	slider: markerPos = None
+15.8357 	EXP 	slider: rating = None
+15.8357 	EXP 	slider: markerPos = None
+15.8357 	EXP 	slider: contrast = 1.0
+15.8357 	EXP 	slider: autoLog = True
+15.8357 	EXP 	slider: styleTweaks = []
+15.8357 	EXP 	slider: style = 'rating'
+15.8357 	EXP 	slider: styleTweaks = []
+15.8357 	EXP 	text_3: autoDraw = True
+46.0312 	EXP 	Imported metoda.csv as conditions, 4 conditions, 1 params
+46.0318 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+46.0320 	EXP 	New trial (rep=0, index=0): OrderedDict([('menu', 'gotowane')])
+46.0476 	DATA 	Keypress: space
+46.0650 	EXP 	text_3: autoDraw = False
+46.0650 	EXP 	slider: markerPos = None
+46.0650 	EXP 	slider: markerPos = None
+46.0650 	EXP 	slider: rating = None
+46.0650 	EXP 	text_5: text = 'gotowane'
+46.0650 	EXP 	text: autoDraw = True
+46.0650 	EXP 	slider: autoDraw = True
+46.0650 	EXP 	text_5: autoDraw = True
+50.3474 	DATA 	Mouse: Left button down, pos=(851,76)
+50.3483 	DATA 	Mouse:  Left button up, pos=(850,76)
+51.5151 	DATA 	Mouse: Left button down, pos=(823,68)
+51.5402 	EXP 	slider: markerPos = 4.016666666666667
+51.5489 	DATA 	Mouse:  Left button up, pos=(823,68)
+51.5547 	EXP 	slider: markerPos = 4.016666666666667
+51.5696 	EXP 	slider: markerPos = 4.016666666666667
+51.5696 	EXP 	slider: rating = 4.016666666666667
+51.5818 	EXP 	text: autoDraw = False
+51.5818 	EXP 	slider: autoDraw = False
+51.5818 	EXP 	text_5: autoDraw = False
+51.5818 	EXP 	text_2: autoDraw = True
+52.0794 	EXP 	New trial (rep=0, index=1): OrderedDict([('menu', 'smażone')])
+52.0997 	EXP 	text_2: autoDraw = False
+52.0997 	EXP 	slider: markerPos = None
+52.0997 	EXP 	slider: markerPos = None
+52.0997 	EXP 	slider: rating = None
+52.0997 	EXP 	text_5: text = 'smażone'
+52.0997 	EXP 	text: autoDraw = True
+52.0997 	EXP 	slider: autoDraw = True
+52.0997 	EXP 	text_5: autoDraw = True
+55.1554 	DATA 	Mouse: Left button down, pos=(276,67)
+55.1738 	EXP 	slider: markerPos = 0.9777777777777779
+55.1777 	DATA 	Mouse:  Left button up, pos=(276,67)
+55.1898 	EXP 	slider: markerPos = 1
+55.1898 	EXP 	slider: rating = 1
+55.2018 	EXP 	text: autoDraw = False
+55.2018 	EXP 	slider: autoDraw = False
+55.2018 	EXP 	text_5: autoDraw = False
+55.2018 	EXP 	text_2: autoDraw = True
+55.6954 	EXP 	New trial (rep=0, index=2): OrderedDict([('menu', 'grillowane')])
+55.7167 	EXP 	text_2: autoDraw = False
+55.7167 	EXP 	slider: markerPos = None
+55.7167 	EXP 	slider: markerPos = None
+55.7167 	EXP 	slider: rating = None
+55.7167 	EXP 	text_5: text = 'grillowane'
+55.7167 	EXP 	text: autoDraw = True
+55.7167 	EXP 	slider: autoDraw = True
+55.7167 	EXP 	text_5: autoDraw = True
+56.5607 	DATA 	Mouse: Left button down, pos=(997,69)
+56.5790 	EXP 	slider: markerPos = 4.988888888888889
+56.5924 	EXP 	slider: markerPos = 4.988888888888889
+56.6058 	EXP 	slider: markerPos = 4.988888888888889
+56.6153 	DATA 	Mouse:  Left button up, pos=(998,69)
+56.6208 	EXP 	slider: markerPos = 4.988888888888889
+56.6353 	EXP 	slider: markerPos = 4.988888888888889
+56.6353 	EXP 	slider: rating = 4.988888888888889
+56.6445 	EXP 	text: autoDraw = False
+56.6445 	EXP 	slider: autoDraw = False
+56.6445 	EXP 	text_5: autoDraw = False
+56.6445 	EXP 	text_2: autoDraw = True
+57.1449 	EXP 	New trial (rep=0, index=3): OrderedDict([('menu', 'pieczone')])
+57.1647 	EXP 	text_2: autoDraw = False
+57.1647 	EXP 	slider: markerPos = None
+57.1647 	EXP 	slider: markerPos = None
+57.1647 	EXP 	slider: rating = None
+57.1647 	EXP 	text_5: text = 'pieczone'
+57.1647 	EXP 	text: autoDraw = True
+57.1647 	EXP 	slider: autoDraw = True
+57.1647 	EXP 	text_5: autoDraw = True
+58.4925 	DATA 	Mouse: Left button down, pos=(636,65)
+58.5108 	EXP 	slider: markerPos = 2.9722222222222223
+58.5232 	EXP 	slider: markerPos = 2.9722222222222223
+58.5356 	EXP 	slider: markerPos = 2.9722222222222223
+58.5446 	DATA 	Mouse:  Left button up, pos=(635,65)
+58.5504 	EXP 	slider: markerPos = 2.9722222222222223
+58.5648 	EXP 	slider: markerPos = 2.9722222222222223
+58.5648 	EXP 	slider: rating = 2.9722222222222223
+58.5744 	EXP 	text: autoDraw = False
+58.5744 	EXP 	slider: autoDraw = False
+58.5744 	EXP 	text_5: autoDraw = False
+58.5744 	EXP 	text_2: autoDraw = True
+59.0791 	EXP 	text_2: autoDraw = False
+59.0791 	EXP 	text_4: autoDraw = True
+60.0748 	EXP 	text_4: autoDraw = False
+60.6313 	EXP 	window1: mouseVisible = True
