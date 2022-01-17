@@ -40,6 +40,9 @@ Gdański Uniwersytet Medyczny
 
 [Kryteria oceny projektów](kryteria_oceny_projektow)
 
+[Standardy APA-PL](Standardy%20APA-PL.pdf)
+
+
 ## Zadania domowe
 
 ### Zadanie na 11.10
