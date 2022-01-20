@@ -78,9 +78,9 @@ Gdański Uniwersytet Medyczny
 
 ## Literatura
 
-- Brzeziński J. Metodologia badań psychologicznych. Wydawnictwo Naukowe PWN, Warszawa 2012.
+- Shaughnessy J, Zechmeister E, Zechmeister J. Metody badawcze w psychologii. Gdańskie Wydawnictwo Psychologiczne, Gdańsk 2002. Na tych zajęciach szczególnie interesuje nas CZĘŚĆ III METODY EKSPERYMENTALNE (str. 223-349).
 
-- Shaughnessy J, Zechmeister E, Zechmeister J. Metody badawcze w psychologii. Gdańskie Wydawnictwo Psychologiczne, Gdańsk 2002.
+- Brzeziński J. Metodologia badań psychologicznych. Wydawnictwo Naukowe PWN, Warszawa 2012.
 
 - Publication Manual of the American Psychological Association, Sixth Edition. CreateSpace Independent Publishing Platform, 2015
 
