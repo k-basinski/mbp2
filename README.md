@@ -28,6 +28,7 @@ Gdański Uniwersytet Medyczny
 - [06 - Plany złożone](w06.html)
 - [07 - Analiza planów złożonych](plany_zlozone/analiza.zip)
 - [08 - RCT](w08.html)
+- [08 - Quasi-eksperymenty](w09.html)
 
 ## Nagrania wykładów
 
