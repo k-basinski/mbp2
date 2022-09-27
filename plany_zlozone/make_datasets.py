@@ -5,19 +5,19 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 # %%
 # config
-means = [15, 10, 15, 0]
+means = [20, 15, 10, 10]
 N = 30
 make_plots = True
 reroll_distributions = False # roll new values for each level
-f1_name = 'łaskotki'
-f2_name = 'disco polo'
+f1_name = 'szok'
+f2_name = 'ciastko'
 dv_name = 'wynik'
 
 labels_factor1 = ['tak', 'nie']
 labels_factor2 = ['tak', 'nie']
 
 fname = 'dane7.csv'
-plot_name = '../klasowki/plots/plot2_5.png'
+plot_name = '../klasowki/plots/plot3_3.png'
 
 # work
 
@@ -39,7 +39,8 @@ df = pd.DataFrame({
 })
 
 if make_plots:
-    sns.boxplot(x=f1_name, y=dv_name, hue=f2_name, data=df)
+    sns.boxplot(x=f1_name, y=dv_name, hue=f2_name, 
+        color='black', data=df)
     plt.savefig(plot_name, dpi=200)
 else:
     df.to_csv(fname)
