@@ -1,9 +1,10 @@
-# Course template
-
-To jest repo-template wykorzystywane do robienia nowych repo z zajęciami dydaktycznymi.
-
 ## Aktualności
 
+Zapraszam na ćwiczenia z Metodologii 2! Widzimy się w poniedziałki w godz. 13.00-15.15 w CMN 1/D/16 (obecność obowiązkowa!)
+
+Zapraszam też na wykłady z Metodologii 2. Widzimy się w piątki w godz. 8:45 na Tuwima w 202.
+
+...a najbardziej zapraszam na kolokwium z Metodologii, na ćwiczeniach, 10.10.2022.
 
 ## Kontakt
 
@@ -17,6 +18,7 @@ Ul Tuwima 15, pok. 312
 
 Gdański Uniwersytet Medyczny
 
+Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 
 ## Wykłady
 
@@ -38,15 +40,14 @@ Gdański Uniwersytet Medyczny
 
 - [01 - organizacja i projekty](c01.html)
 - [Przykładowy eksperyment do analizy](analiza_psychopy/analiza_psychopy.zip)
-
-[Kryteria oceny projektów](kryteria_oceny_projektow)
-
-[Standardy APA-PL](Standardy%20APA-PL.pdf)
+- [Kryteria oceny projektów](kryteria_oceny_projektow)
+- [Standardy APA-PL](Standardy%20APA-PL.pdf)
 
 
 ## Zadania domowe
 
-### Zadanie na 11.10
+
+<!-- ### Zadanie na 11.10
 
 * Zainstaluj PsychoPy
 * Zobacz [Jason Ozubko - Getting Started with PsychoPy, Part 1](https://www.youtube.com/watch?v=GSv60zgQlB8&list=PL6PJquR5BWXllUt585cRJWcRTly55iXTm)
@@ -58,19 +59,18 @@ Gdański Uniwersytet Medyczny
 * Zróbcie (ekspresowy) przegląd literatury
 * Znajdźcie co najmniej trzy artykuły (co najmniej dwa po angielsku, co najmniej jeden przeglądowy)
 * Zaprezentujcie, co jest w tych artykułach
-* Zróbcie podsumowanie i spróbujcie odpowiedzieć na pytanie badawcze
+* Zróbcie podsumowanie i spróbujcie odpowiedzieć na pytanie badawcze -->
 
 
 
 
 # Organizacja
 
-- Wykłady (na Zoomie) w piątki, 8:45 - 10:15, cały semestr
-- Ćwiczenia (na Zoomie) w poniedziałki, 13.00 - 15.15  (4.10.2021, 11.10.2021)
-- Laboratoria (na żywo) w pozostałe poniedziałki do końca semestru:
-  - gr. C: 8.45 - 10.15 
-  - gr. A: 10.30 - 12.00
-  - gr. B: 13.00 - 15.15
+- Wykłady w piątki, 8:45 - 10:15, cały semestr, Tuwima 202.
+- Ćwiczenia w poniedziałki 7 i 14.10, 13.00 - 15.15 w CMN 1/D/16 
+- Laboratoria  w pozostałe poniedziałki do końca semestru w CMN 2/D/04-A
+  - gr. A  13.00 - 14.30 
+  - gr. B  14.45 - 16.15 
 
 
 ## Syllabus
