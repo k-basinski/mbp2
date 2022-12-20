@@ -4,7 +4,7 @@ Zapraszam na ćwiczenia z Metodologii 2! Widzimy się w poniedziałki w godz. 13
 
 Zapraszam też na wykłady z Metodologii 2. Widzimy się w piątki w godz. 8:45 na Tuwima w 202.
 
-...a najbardziej zapraszam na kolokwium z Metodologii, na ćwiczeniach, 10.10.2022.
+...a najbardziej zapraszam na kolokwium z Metodologii, na ćwiczeniach, 10.10.2022, godz. 14.00, sala im. Rydygiera.
 
 ## Kontakt
 
@@ -39,7 +39,8 @@ Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 ## Ćwiczenia
 
 - [01 - organizacja i projekty](c01.html)
-- [Przykładowy eksperyment do analizy](analiza_psychopy/analiza_psychopy.zip)
+- [Przykładowy eksperyment do analizy (2021-22)](analiza_psychopy/analiza_psychopy.zip)
+- [Przykładowy eksperyment do analizy (2022-23)](analiza_psychopy_2022/analiza_psychopy_2022.zip)
 - [Kryteria oceny projektów](kryteria_oceny_projektow)
 - [Standardy APA-PL](Standardy%20APA-PL.pdf)
 
