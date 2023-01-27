@@ -30,7 +30,8 @@ Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 - [06 - Plany złożone](w06.html)
 - [07 - Analiza planów złożonych](plany_zlozone/analiza.zip)
 - [08 - RCT](w08.html)
-- [08 - Quasi-eksperymenty](w09.html)
+- [09 - Quasi-eksperymenty](w09.html)
+- [10 - Kryzys replikowalności i kulty cargo](replikowalnosc_cargo.pdf)
 
 ## Nagrania wykładów
 
