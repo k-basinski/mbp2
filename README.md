@@ -1,10 +1,5 @@
 ## Aktualności
 
-Zapraszam na ćwiczenia z Metodologii 2! Widzimy się w poniedziałki w godz. 13.00-15.15 w CMN 1/D/16 (obecność obowiązkowa!)
-
-Zapraszam też na wykłady z Metodologii 2. Widzimy się w piątki w godz. 8:45 na Tuwima w 202.
-
-...a najbardziej zapraszam na kolokwium z Metodologii, na ćwiczeniach, 10.10.2022, godz. 14.00, sala im. Rydygiera.
 
 ## Kontakt
 
