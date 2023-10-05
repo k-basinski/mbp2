@@ -19,15 +19,15 @@ Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 
 - [01 - Organizacja](w01.html)
 - [02 - Powtórka z pierwszego roku](w02.html)
-- [03 - Eksperymenty, wprowadzenie](w03.html)
+<!-- - [03 - Eksperymenty, wprowadzenie](w03.html)
 - [04 - Plany proste](w04.html)
 - [05 - Powtarzany pomiar](w05.html)
 - [06 - Plany złożone](w06.html)
 - [07 - Analiza planów złożonych](plany_zlozone/analiza.zip)
 - [08 - RCT](w08.html)
 - [09 - Quasi-eksperymenty](w09.html)
-- [10 - Kryzys replikowalności i kulty cargo](replikowalnosc_cargo.pdf)
-
+- [10 - Kryzys replikowalności i kulty cargo](replikowalnosc_cargo.pdf) -->
+<!-- 
 ## Nagrania wykładów
 
 - [Analiza planów złożonych](https://youtu.be/9OMrcudz9YM)
@@ -38,7 +38,7 @@ Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 - [Przykładowy eksperyment do analizy (2021-22)](analiza_psychopy/analiza_psychopy.zip)
 - [Przykładowy eksperyment do analizy (2022-23)](analiza_psychopy_2022/analiza_psychopy_2022.zip)
 - [Kryteria oceny projektów](kryteria_oceny_projektow)
-- [Standardy APA-PL](Standardy%20APA-PL.pdf)
+- [Standardy APA-PL](Standardy%20APA-PL.pdf) -->
 
 
 ## Zadania domowe
