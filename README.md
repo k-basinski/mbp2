@@ -19,7 +19,10 @@ Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 
 - [01 - Organizacja](w01.html)
 - [02 - Powtórka z pierwszego roku](w02.html)
-<!-- - [03 - Eksperymenty, wprowadzenie](w03.html)
+
+<!-- 
+
+- [03 - Eksperymenty, wprowadzenie](w03.html)
 - [04 - Plany proste](w04.html)
 - [05 - Powtarzany pomiar](w05.html)
 - [06 - Plany złożone](w06.html)
@@ -68,6 +71,7 @@ Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 - Laboratoria  w pozostałe poniedziałki do końca semestru w CMN 2/D/04-A
   - gr. A  13.00 - 14.30 
   - gr. B  14.45 - 16.15 
+
 -->
 
 
