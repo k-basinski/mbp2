@@ -68,12 +68,13 @@ Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 
 W najbliższy piątek, 13.10 odbędzie się kolokwium powtórkowe. Widzimy się o 8.45 w Audytorium A w CBM.
 
+Najbliższe laborki (17.10) odbędą się wyjątkowo w AGN_219. Godziny tak jak poniżej.
 
 # Organizacja
 
 - Wykłady w piątki, 8:45 - 10:15, cały semestr, T202.
 - Ćwiczenia w poniedziałki 3 i 10.10, 9.45-12.00 w CMN 1/D/15 
-- Laboratoria  w pozostałe wtorki do końca semestru, T3
+- Laboratoria we wtorek, 17.10 w sali AGN_219, w pozostałe wtorki do końca semestru w T3:
   - gr. A 8.00 - 9.30 
   - gr. B 9.45 - 11.15 
   - gr. C 11.30 - 13.00
