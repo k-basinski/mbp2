@@ -26,8 +26,8 @@ Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 - [07 - Analiza planów złożonych](plany_zlozone/analiza.zip)
 - [08 - RCT](w08.html)
 - [09 - Quasi-eksperymenty](w09.html)
-- [10 - Kryzys replikowalności i kulty cargo](replikowalnosc_cargo.pdf) -->
-<!-- 
+- [10 - Kryzys replikowalności i kulty cargo](replikowalnosc_cargo.pdf) 
+- 
 ## Nagrania wykładów
 
 - [Analiza planów złożonych](https://youtu.be/9OMrcudz9YM)
@@ -38,13 +38,13 @@ Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 - [Przykładowy eksperyment do analizy (2021-22)](analiza_psychopy/analiza_psychopy.zip)
 - [Przykładowy eksperyment do analizy (2022-23)](analiza_psychopy_2022/analiza_psychopy_2022.zip)
 - [Kryteria oceny projektów](kryteria_oceny_projektow)
-- [Standardy APA-PL](Standardy%20APA-PL.pdf) -->
+- [Standardy APA-PL](Standardy%20APA-PL.pdf) 
 
 
 ## Zadania domowe
 
 
-<!-- ### Zadanie na 11.10
+### Zadanie na 11.10
 
 * Zainstaluj PsychoPy
 * Zobacz [Jason Ozubko - Getting Started with PsychoPy, Part 1](https://www.youtube.com/watch?v=GSv60zgQlB8&list=PL6PJquR5BWXllUt585cRJWcRTly55iXTm)
@@ -56,7 +56,7 @@ Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 * Zróbcie (ekspresowy) przegląd literatury
 * Znajdźcie co najmniej trzy artykuły (co najmniej dwa po angielsku, co najmniej jeden przeglądowy)
 * Zaprezentujcie, co jest w tych artykułach
-* Zróbcie podsumowanie i spróbujcie odpowiedzieć na pytanie badawcze -->
+* Zróbcie podsumowanie i spróbujcie odpowiedzieć na pytanie badawcze 
 
 
 
@@ -68,6 +68,7 @@ Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 - Laboratoria  w pozostałe poniedziałki do końca semestru w CMN 2/D/04-A
   - gr. A  13.00 - 14.30 
   - gr. B  14.45 - 16.15 
+-->
 
 
 ## Syllabus
