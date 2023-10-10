@@ -63,16 +63,21 @@ Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 
 
 
+-->
+# Aktualności
+
+W najbliższy piątek, 13.10 odbędzie się kolokwium powtórkowe. Widzimy się o 8.45 w Audytorium A w CBM.
+
 
 # Organizacja
 
-- Wykłady w piątki, 8:45 - 10:15, cały semestr, Tuwima 202.
-- Ćwiczenia w poniedziałki 7 i 14.10, 13.00 - 15.15 w CMN 1/D/16 
-- Laboratoria  w pozostałe poniedziałki do końca semestru w CMN 2/D/04-A
-  - gr. A  13.00 - 14.30 
-  - gr. B  14.45 - 16.15 
+- Wykłady w piątki, 8:45 - 10:15, cały semestr, T202.
+- Ćwiczenia w poniedziałki 3 i 10.10, 9.45-12.00 w CMN 1/D/15 
+- Laboratoria  w pozostałe wtorki do końca semestru, T3
+  - gr. A 8.00 - 9.30 
+  - gr. B 9.45 - 11.15 
+  - gr. C 11.30 - 13.00
 
--->
 
 
 ## Syllabus
