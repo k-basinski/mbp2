@@ -15,6 +15,17 @@ Gdański Uniwersytet Medyczny
 
 Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 
+
+Tomasz Domżalski
+
+tomasz (dot) domzalski (at) gumed (dot) edu (dot) pl 
+
+Zakład Badań nad Jakością Życia
+
+Ul Tuwima 15, pok. 312
+
+Gdański Uniwersytet Medyczny
+
 ## Wykłady
 
 - [01 - Organizacja](w01.html)
