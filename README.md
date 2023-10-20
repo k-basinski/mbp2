@@ -13,8 +13,9 @@ Ul Tuwima 15, pok. 312
 
 Gdański Uniwersytet Medyczny
 
-Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!) <br/>
+Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
 
+<br><br>
 
 Tomasz Domżalski
 
