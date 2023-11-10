@@ -1,6 +1,3 @@
-## Aktualności
-
-
 ## Kontakt
 
 Krzysztof Basiński
@@ -90,6 +87,24 @@ Najbliższe laborki (17.10) odbędą się wyjątkowo w AGN_219. Godziny tak jak 
   - gr. A 8.00 - 9.30 
   - gr. B 9.45 - 11.15 
   - gr. C 11.30 - 13.00
+
+# Psychopy:
+
+Zamieszczam linki do materiałów, które mogą okazać się przydatne w starciu z trudnościami wszelakimi:
+- Polecam korzystać z materiałów tego pana. Ma tam playlistę z tutorialami: [Jason Ozubko - Getting Started with PsychoPy, Part 1](https://youtu.be/GSv60zgQlB8)
+- Tutaj na kanale też można znaleźć wsparcie: [How to check if a typed response is 'correct' in PsychoPy](https://youtu.be/-Fto45M7bS0)
+- A tutaj jest cała zakładka z materiałami dla PSYCHOPY, taki e-learning przedstawiony w przystępny sposób, krótkie know how basics: [Chapter 10 - PsychoPy basics](https://psychology.nottingham.ac.uk/staff/lpzjd/psgy1001-21/psychopy-basics.html)
+
+
+Pod tym linkiem, który jest aktywny przez 7 dni od 10.11.23, znajdziecie folder z demo, o którym wam mówiłem czyli bigfive i stroop oraz przykładowymi szablonami - pobierzcie ten folder na swoje urządzenia i zachęcam do przeklikania.
+[Kliknij tu i mnie pobierz](https://we.tl/t-G42pKk4HnK) Tip: otwieracie projekt klikając w plik o rozszerzeniu .psyexp
+
+  
+Jeśli chodzi o maile. Piszczcie do mnie śmiało, z tym, że:
+- Po proszę w temacie: o co chodzi, może być “metodologia psychopy” oraz imię i nazwisko wysyłającego
+- Po proszę, abyście dobrze przemyśleli treść maila i problem jaki opisujecie, od razu mówię, że mogę odpisać “nie rozumiem” :)
+- Konsultacje ze mną face to face w sprawie waszych kłótni z psychopajem są możliwe w czwartek po uprzednim napisaniu maila, a w nim, opisaniu czego dotyczy problem; kwestia godzin - do ustalenia mailowo
+ 
 
 
 
