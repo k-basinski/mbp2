@@ -75,9 +75,7 @@ Gdański Uniwersytet Medyczny
 -->
 # Aktualności
 
-W najbliższy piątek, 13.10 odbędzie się kolokwium powtórkowe. Widzimy się o 8.45 w Audytorium A w CBM.
-
-Najbliższe laborki (17.10) odbędą się wyjątkowo w AGN_219. Godziny tak jak poniżej.
+Wykład 17.11.2023 będzie bazował na pracy w grupach projektowych nad implementacją waszych projektów badawczych.
 
 # Organizacja
 
@@ -95,9 +93,12 @@ Zamieszczam linki do materiałów, które mogą okazać się przydatne w starciu
 - Tutaj na kanale też można znaleźć wsparcie: [How to check if a typed response is 'correct' in PsychoPy](https://youtu.be/-Fto45M7bS0)
 - A tutaj jest cała zakładka z materiałami dla PSYCHOPY, taki e-learning przedstawiony w przystępny sposób, krótkie know how basics: [Chapter 10 - PsychoPy basics](https://psychology.nottingham.ac.uk/staff/lpzjd/psgy1001-21/psychopy-basics.html)
 
-
+### Wykład 10.11.2023:
 Pod tym linkiem, który jest aktywny przez 7 dni od 10.11.23, znajdziecie folder z demo, o którym wam mówiłem czyli bigfive i stroop oraz przykładowymi szablonami - pobierzcie ten folder na swoje urządzenia i zachęcam do przeklikania.
-[Kliknij tu i mnie pobierz](https://we.tl/t-G42pKk4HnK) Tip: otwieracie projekt klikając w plik o rozszerzeniu .psyexp
+[Kliknij tu i pobierz przykładowe projekty](https://we.tl/t-G42pKk4HnK) Tip: otwieracie projekt klikając w plik o rozszerzeniu .psyexp
+
+### Laboratoria 14.11.2023
+Pod tym linkiem (aktywny 7 dni, w razie czego piszcie maila) znajdziecie zrobione zadanie z laborek. [Kliknij tutaj i pobierz zadanko z laborek](https://we.tl/t-b1eaCMH9ZD)
 
   
 Jeśli chodzi o maile. Piszczcie do mnie śmiało, z tym, że:
