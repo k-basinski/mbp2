@@ -29,9 +29,6 @@ Gdański Uniwersytet Medyczny
 - [01 - Organizacja](w01.html)
 - [02 - Powtórka z pierwszego roku](w02.html)
 - [03 - Eksperymenty, wprowadzenie](w03.html)
-
-<!-- 
-
 - [04 - Plany proste](w04.html)
 - [05 - Powtarzany pomiar](w05.html)
 - [06 - Plany złożone](w06.html)
@@ -39,7 +36,9 @@ Gdański Uniwersytet Medyczny
 - [08 - RCT](w08.html)
 - [09 - Quasi-eksperymenty](w09.html)
 - [10 - Kryzys replikowalności i kulty cargo](replikowalnosc_cargo.pdf) 
-- 
+
+<!--
+
 ## Nagrania wykładów
 
 - [Analiza planów złożonych](https://youtu.be/9OMrcudz9YM)
