@@ -1,5 +1,6 @@
-library(tidyverse)
-
+library(dplyr)
+library(ggplot2)
+library(readr)
 dane <- read_csv("dane.csv")
 
 dane
@@ -62,5 +63,8 @@ ggplot(data = dane, mapping = aes(
 # ANOVA (analiza wariancji) dwuczynnikowa dla grup niezależnych
 # UWAGA: to działa dla grup niezależnych i równolicznych warunków eksp.
 
-aov(pamiec ~ pobudzenie + trudnosc + pobudzenie:trudnosc, data = dane) %>% 
-  summary()
+anova_res <- aov(pamiec ~ pobudzenie + trudnosc + pobudzenie:trudnosc, data = dane) 
+summary(anova_res)
+
+# post-hoc comparisons with Tukey HSD
+TukeyHSD(anova_res)

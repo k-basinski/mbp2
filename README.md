@@ -74,7 +74,7 @@ Gdański Uniwersytet Medyczny
 -->
 # Aktualności
 
-Wykład 17.11.2023 będzie bazował na pracy w grupach projektowych nad implementacją waszych projektów badawczych.
+Drugie kolokwium z Metodologii odbędzie się 11 stycznia w godz. 11:30-13:00 w sali CBM A.****
 
 # Organizacja
 

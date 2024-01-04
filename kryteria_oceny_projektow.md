@@ -1,7 +1,7 @@
 ## Kryteria oceny projektów
 
 - Za projekt łącznie można zdobyć 40 punktów.
-- Punkty daję w trzech kategoriach
+- Punkty dajemy w trzech kategoriach
   
 ## Jakość naukowa badania - 25 pkt
 
