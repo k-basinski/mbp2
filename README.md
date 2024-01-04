@@ -108,7 +108,7 @@ Jeśli chodzi o maile. Piszczcie do mnie śmiało, z tym, że:
 
 ## Kryteria oceny projektów
 
-[Kryteria oceny projektów](kryteria_oceny_projektow.md)
+[Kryteria oceny projektów](kryteria_oceny_projektow)
 
 ## Syllabus
 
