@@ -106,7 +106,9 @@ Jeśli chodzi o maile. Piszczcie do mnie śmiało, z tym, że:
 - Konsultacje ze mną face to face w sprawie waszych kłótni z psychopajem są możliwe w czwartek po uprzednim napisaniu maila, a w nim, opisaniu czego dotyczy problem; kwestia godzin - do ustalenia mailowo
  
 
+## Kryteria oceny projektów
 
+[Kryteria oceny projektów](kryteria_oceny_projektow.md)
 
 ## Syllabus
 
