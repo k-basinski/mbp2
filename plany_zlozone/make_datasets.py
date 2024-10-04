@@ -5,19 +5,19 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 # %%
 # config
-means = [10, 10, 10, 15]
+means = [10, 40, 10, 20]
 N = 30
 make_plots = True
 reroll_distributions = False # roll new values for each level
-f1_name = 'disco polo'
-f2_name = 'łaskotki'
+f1_name = 'ciastko'
+f2_name = 'szoki'
 dv_name = 'wynik'
 
 labels_factor1 = ['tak', 'nie']
 labels_factor2 = ['tak', 'nie']
 
 fname = 'dane7.csv'
-plot_name = '../klasowki/plots/plot5_2.png'
+plot_name = '../klasowki/plots/plot_e23_2.png'
 
 # work
 

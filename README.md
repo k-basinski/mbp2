@@ -10,7 +10,7 @@ Ul Tuwima 15, pok. 312
 
 Gdański Uniwersytet Medyczny
 
-Konsultacje: piątki, 12:45-13:45 (zanim przyjdziesz, napisz maila!)
+Konsultacje: termin w trakcie ustaleń
 
 <br><br>
 
@@ -74,37 +74,27 @@ Gdański Uniwersytet Medyczny
 -->
 # Aktualności
 
-Drugie kolokwium z Metodologii odbędzie się 11 stycznia w godz. 11:30-13:00 w sali CBM A.****
+Pierwsze kolokwium z Metodologii odbędzie się 18 października o godzinie 8.45 w sali CBM C.****
 
 # Organizacja
 
-- Wykłady w piątki, 8:45 - 10:15, cały semestr, T202.
-- Ćwiczenia w poniedziałki 3 i 10.10, 9.45-12.00 w CMN 1/D/15 
-- Laboratoria we wtorek, 17.10 w sali AGN_219, w pozostałe wtorki do końca semestru w T3:
-  - gr. A 8.00 - 9.30 
-  - gr. B 9.45 - 11.15 
+- Wykłady w piątki, 8:45 - 10:15, cały semestr, CBM_C.
+- Ćwiczenia, sala seminaryjna nr 2/DD/09 (CMI):
+  - 15.45 - 18.00
+  - gr. A (2.10.2024, 16.10.2024)
+  - gr. B (9.10.2024, 23.10.2024)
+- Laboratoria, sala seminaryjna nr 2/DD/09 (CMI):
+  - gr. A 8.00 - 9.30
+  - gr. B 9.45 - 11.15
   - gr. C 11.30 - 13.00
 
-# Psychopy:
+# Psychopy
 
 Zamieszczam linki do materiałów, które mogą okazać się przydatne w starciu z trudnościami wszelakimi:
 - Polecam korzystać z materiałów tego pana. Ma tam playlistę z tutorialami: [Jason Ozubko - Getting Started with PsychoPy, Part 1](https://youtu.be/GSv60zgQlB8)
 - Tutaj na kanale też można znaleźć wsparcie: [How to check if a typed response is 'correct' in PsychoPy](https://youtu.be/-Fto45M7bS0)
 - A tutaj jest cała zakładka z materiałami dla PSYCHOPY, taki e-learning przedstawiony w przystępny sposób, krótkie know how basics: [Chapter 10 - PsychoPy basics](https://psychology.nottingham.ac.uk/staff/lpzjd/psgy1001-21/psychopy-basics.html)
 
-### Wykład 10.11.2023:
-Pod tym linkiem, który jest aktywny przez 7 dni od 10.11.23, znajdziecie folder z demo, o którym wam mówiłem czyli bigfive i stroop oraz przykładowymi szablonami - pobierzcie ten folder na swoje urządzenia i zachęcam do przeklikania.
-[Kliknij tu i pobierz przykładowe projekty](https://we.tl/t-G42pKk4HnK) Tip: otwieracie projekt klikając w plik o rozszerzeniu .psyexp
-
-### Laboratoria 14.11.2023
-Pod tym linkiem (aktywny 7 dni, w razie czego piszcie maila) znajdziecie zrobione zadanie z laborek. [Kliknij tutaj i pobierz zadanko z laborek](https://we.tl/t-b1eaCMH9ZD)
-
-  
-Jeśli chodzi o maile. Piszczcie do mnie śmiało, z tym, że:
-- Po proszę w temacie: o co chodzi, może być “metodologia psychopy” oraz imię i nazwisko wysyłającego
-- Po proszę, abyście dobrze przemyśleli treść maila i problem jaki opisujecie, od razu mówię, że mogę odpisać “nie rozumiem” :)
-- Konsultacje ze mną face to face w sprawie waszych kłótni z psychopajem są możliwe w czwartek po uprzednim napisaniu maila, a w nim, opisaniu czego dotyczy problem; kwestia godzin - do ustalenia mailowo
- 
 
 ## Kryteria oceny projektów
 
