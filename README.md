@@ -74,7 +74,7 @@ Gdański Uniwersytet Medyczny
 -->
 # Aktualności
 
-Pierwsze kolokwium z Metodologii odbędzie się 18 października o godzinie 8.45 w sali CBM C.****
+Egzamin z MBP2 odbędzie się 31 stycznia 2025 w godzinach 10:15-11:30 w sali CBM C.
 
 # Organizacja
 
