@@ -74,7 +74,7 @@ Gdański Uniwersytet Medyczny
 -->
 # Aktualności
 
-Egzamin z MBP2 odbędzie się 31 stycznia 2025 w godzinach 10:15-11:30 w sali CBM C.
+Egzamin z MBP2 odbędzie się piątek 31 stycznia 2025 w godzinach 8:30-9:45 w sali Rydygiera.
 
 # Organizacja
 
