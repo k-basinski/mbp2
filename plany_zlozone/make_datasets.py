@@ -17,7 +17,7 @@ labels_factor1 = ['tak', 'nie']
 labels_factor2 = ['tak', 'nie']
 
 fname = 'dane9.csv'
-plot_name = '../klasowki/plots/plot_k24_2.png'
+plot_name = '../klasowki/plots/plot_e1_24_2.png'
 
 # work
 
