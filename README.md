@@ -26,41 +26,6 @@ Kolokwium 1 z MBP2 odbędzie się 7 listopada 2025 o godzinie 8.45 w **sali CBM 
 - [Powtórka z pierwszego roku](w02.html)
 
 
-<!--
-
-## Nagrania wykładów
-
-- [Analiza planów złożonych](https://youtu.be/9OMrcudz9YM)
-
-## Ćwiczenia
-
-- [01 - organizacja i projekty](c01.html)
-- [Przykładowy eksperyment do analizy (2021-22)](analiza_psychopy/analiza_psychopy.zip)
-- [Przykładowy eksperyment do analizy (2022-23)](analiza_psychopy_2022/analiza_psychopy_2022.zip)
-- [Kryteria oceny projektów](kryteria_oceny_projektow)
-- [Standardy APA-PL](Standardy%20APA-PL.pdf) 
-
-
-## Zadania domowe
-
-
-### Zadanie na 11.10
-
-* Zainstaluj PsychoPy
-* Zobacz [Jason Ozubko - Getting Started with PsychoPy, Part 1](https://www.youtube.com/watch?v=GSv60zgQlB8&list=PL6PJquR5BWXllUt585cRJWcRTly55iXTm)
-
-### Zadanie na 18.10
-
-* W 2-3 osobowych grupach "projektowych" 
-* Postawcie (dowolne) pytanie badawcze
-* Zróbcie (ekspresowy) przegląd literatury
-* Znajdźcie co najmniej trzy artykuły (co najmniej dwa po angielsku, co najmniej jeden przeglądowy)
-* Zaprezentujcie, co jest w tych artykułach
-* Zróbcie podsumowanie i spróbujcie odpowiedzieć na pytanie badawcze 
-
-
-
--->
 
 
 ## Organizacja
@@ -148,3 +113,41 @@ Gdański Uniwersytet Medyczny
 ## Licencja
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencja Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Ten utwór jest dostępny na <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencji Creative Commons Uznanie autorstwa 4.0 Międzynarodowe</a>.
+
+
+
+<!--
+
+## Nagrania wykładów
+
+- [Analiza planów złożonych](https://youtu.be/9OMrcudz9YM)
+
+## Ćwiczenia
+
+- [01 - organizacja i projekty](c01.html)
+- [Przykładowy eksperyment do analizy (2021-22)](analiza_psychopy/analiza_psychopy.zip)
+- [Przykładowy eksperyment do analizy (2022-23)](analiza_psychopy_2022/analiza_psychopy_2022.zip)
+- [Kryteria oceny projektów](kryteria_oceny_projektow)
+- [Standardy APA-PL](Standardy%20APA-PL.pdf) 
+
+
+## Zadania domowe
+
+
+### Zadanie na 11.10
+
+* Zainstaluj PsychoPy
+* Zobacz [Jason Ozubko - Getting Started with PsychoPy, Part 1](https://www.youtube.com/watch?v=GSv60zgQlB8&list=PL6PJquR5BWXllUt585cRJWcRTly55iXTm)
+
+### Zadanie na 18.10
+
+* W 2-3 osobowych grupach "projektowych" 
+* Postawcie (dowolne) pytanie badawcze
+* Zróbcie (ekspresowy) przegląd literatury
+* Znajdźcie co najmniej trzy artykuły (co najmniej dwa po angielsku, co najmniej jeden przeglądowy)
+* Zaprezentujcie, co jest w tych artykułach
+* Zróbcie podsumowanie i spróbujcie odpowiedzieć na pytanie badawcze 
+
+
+
+-->
