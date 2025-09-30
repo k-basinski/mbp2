@@ -1,41 +1,13 @@
-## Kontakt
 
-Krzysztof Basiński
+# Aktualności
 
-krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
+Kolokwium 1 z MBP2 odbędzie się 7 listopada 2025 o godzinie 8.45 w **sali CBM C**.
 
-Zakład Badań nad Jakością Życia
-
-Ul Tuwima 15, pok. 312
-
-Gdański Uniwersytet Medyczny
-
-Konsultacje: piątki, 13:00-14:00 (zdalnie)
-
-<br><br>
-
-Tomasz Domżalski
-
-tomasz (dot) domzalski (at) gumed (dot) edu (dot) pl 
-
-<br><br>
-
-Aniela Brzezińska
-
-anielabrzezinska (at) gumed (dot) edu (dot) pl
-
-<br><br>
-
-Zakład Badań nad Jakością Życia
-
-Ul Tuwima 15, pok. 312
-
-Gdański Uniwersytet Medyczny
 
 ## Wykłady
 
-- 01 - Organizacja [html]](w01.html) | [pdf](pdf/w01.pdf)
-- 02 - Eksperymenty, wprowadzenie [html]](w02.html) | [pdf](pdf/w02.pdf)
+- 01 - Organizacja [html](w01.html) | [pdf](pdf/w01.pdf)
+- 02 - Eksperymenty, wprowadzenie [html](w02.html) | [pdf](pdf/w02.pdf)
 <!-- 
 - [04 - Plany proste](w04.html)
 - [05 - Powtarzany pomiar](w05.html)
@@ -87,9 +59,6 @@ Gdański Uniwersytet Medyczny
 
 -->
 
-# Aktualności
-
-Kolokwium 1 z MBP2 odbędzie się 7 listopada 2025 o godzinie 8.45 w **sali CBM C**.
 
 # Organizacja
 
@@ -117,13 +86,6 @@ CMI_3/DD/06
 Sale wg. planu zajęć.
 
 
-# Psychopy
-
-Zamieszczam linki do materiałów, które mogą okazać się przydatne w starciu z trudnościami wszelakimi:
-- Polecam korzystać z materiałów tego pana. Ma tam playlistę z tutorialami: [Jason Ozubko - Getting Started with PsychoPy, Part 1](https://youtu.be/GSv60zgQlB8)
-- Tutaj na kanale też można znaleźć wsparcie: [How to check if a typed response is 'correct' in PsychoPy](https://youtu.be/-Fto45M7bS0)
-- A tutaj jest cała zakładka z materiałami dla PSYCHOPY, taki e-learning przedstawiony w przystępny sposób, krótkie know how basics: [Chapter 10 - PsychoPy basics](https://psychology.nottingham.ac.uk/staff/lpzjd/psgy1001-21/psychopy-basics.html)
-
 <!-- 
 ## Kryteria oceny projektów
 
@@ -145,6 +107,39 @@ Zamieszczam linki do materiałów, które mogą okazać się przydatne w starciu
 - Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton. Research Methods in Psychology, 4th edition. Open Textbook Library
 
 - PsychoPy documentation. https://www.psychopy.org/PsychoPyManual.pdf
+
+
+# Psychopy
+
+Zamieszczam linki do materiałów, które mogą okazać się przydatne w starciu z trudnościami wszelakimi:
+- Polecam korzystać z materiałów tego pana. Ma tam playlistę z tutorialami: [Jason Ozubko - Getting Started with PsychoPy, Part 1](https://youtu.be/GSv60zgQlB8)
+- Tutaj na kanale też można znaleźć wsparcie: [How to check if a typed response is 'correct' in PsychoPy](https://youtu.be/-Fto45M7bS0)
+- A tutaj jest cała zakładka z materiałami dla PSYCHOPY, taki e-learning przedstawiony w przystępny sposób, krótkie know how basics: [Chapter 10 - PsychoPy basics](https://psychology.nottingham.ac.uk/staff/lpzjd/psgy1001-21/psychopy-basics.html)
+
+
+## Kontakt
+
+### Krzysztof Basiński
+
+krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
+
+Konsultacje: piątki, 13:00-14:00 (zdalnie)
+
+### Tomasz Domżalski
+
+tomasz (dot) domzalski (at) gumed (dot) edu (dot) pl 
+
+### Aniela Brzezińska
+
+anielabrzezinska (at) gumed (dot) edu (dot) pl
+
+### Adres
+
+Zakład Badań nad Jakością Życia
+
+Ul Tuwima 15, pok. 312
+
+Gdański Uniwersytet Medyczny
 
 
 ## Licencja
