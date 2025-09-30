@@ -10,13 +10,21 @@ Ul Tuwima 15, pok. 312
 
 Gdański Uniwersytet Medyczny
 
-Konsultacje: termin w trakcie ustaleń
+Konsultacje: piątki, 13:00-14:00 (zdalnie)
 
 <br><br>
 
 Tomasz Domżalski
 
 tomasz (dot) domzalski (at) gumed (dot) edu (dot) pl 
+
+<br><br>
+
+Aniela Brzezińska
+
+anielabrzezinska (at) gumed (dot) edu (dot) pl
+
+<br><br>
 
 Zakład Badań nad Jakością Życia
 
@@ -26,9 +34,9 @@ Gdański Uniwersytet Medyczny
 
 ## Wykłady
 
-- [01 - Organizacja](w01.html)
-- [02 - Powtórka z pierwszego roku](w02.html)
-- [03 - Eksperymenty, wprowadzenie](w03.html)
+- 01 - Organizacja [html]](w01.html) | [pdf](pdf/w01.pdf)
+- 02 - Eksperymenty, wprowadzenie [html]](w02.html) | [pdf](pdf/w02.pdf)
+<!-- 
 - [04 - Plany proste](w04.html)
 - [05 - Powtarzany pomiar](w05.html)
 - [06 - Plany złożone](w06.html)
@@ -36,6 +44,12 @@ Gdański Uniwersytet Medyczny
 - [08 - RCT](w08.html)
 - [09 - Quasi-eksperymenty](w09.html)
 - [10 - Kryzys replikowalności i kulty cargo](replikowalnosc_cargo.pdf) 
+ -->
+
+## Ćwiczenia
+
+- [Powtórka z pierwszego roku](w02.html)
+
 
 <!--
 
@@ -72,21 +86,36 @@ Gdański Uniwersytet Medyczny
 
 
 -->
+
 # Aktualności
 
-Egzamin z MBP2 odbędzie się piątek 31 stycznia 2025 w godzinach 8:30-9:45 w sali Rydygiera.
+Kolokwium 1 z MBP2 odbędzie się 7 listopada 2025 o godzinie 8.45 w **sali CBM C**.
 
 # Organizacja
 
-- Wykłady w piątki, 8:45 - 10:15, cały semestr, CBM_C.
-- Ćwiczenia, sala seminaryjna nr 2/DD/09 (CMI):
-  - 15.45 - 18.00
-  - gr. A (2.10.2024, 16.10.2024)
-  - gr. B (9.10.2024, 23.10.2024)
-- Laboratoria, sala seminaryjna nr 2/DD/09 (CMI):
-  - gr. A 8.00 - 9.30
-  - gr. B 9.45 - 11.15
-  - gr. C 11.30 - 13.00
+## Wykłady 
+
+Piątki, 8:45 - 10:15, cały semestr, Zoom.
+
+
+## Ćwiczenia
+
+CMI_3/DD/06
+
+15.45 - 17.15
+
+- gr. B (2.10.2025, 16.10.2025)
+- gr. A (9.10.2025, 23.10.2025) 
+
+
+## Laboratoria
+
+- gr. A 9.45 - 11.15
+- gr. B 11.30 - 13.00
+- gr. C 8.00 - 9.30
+
+Sale wg. planu zajęć.
+
 
 # Psychopy
 
@@ -95,10 +124,11 @@ Zamieszczam linki do materiałów, które mogą okazać się przydatne w starciu
 - Tutaj na kanale też można znaleźć wsparcie: [How to check if a typed response is 'correct' in PsychoPy](https://youtu.be/-Fto45M7bS0)
 - A tutaj jest cała zakładka z materiałami dla PSYCHOPY, taki e-learning przedstawiony w przystępny sposób, krótkie know how basics: [Chapter 10 - PsychoPy basics](https://psychology.nottingham.ac.uk/staff/lpzjd/psgy1001-21/psychopy-basics.html)
 
-
+<!-- 
 ## Kryteria oceny projektów
 
-[Kryteria oceny projektów](kryteria_oceny_projektow)
+[Kryteria oceny projektów](kryteria_oceny_projektow) -->
+
 
 ## Syllabus
 
