@@ -1,13 +1,16 @@
+# MBP2
 
-# Aktualności
+## Aktualności
 
 Kolokwium 1 z MBP2 odbędzie się 7 listopada 2025 o godzinie 8.45 w **sali CBM C**.
 
 
 ## Wykłady
 
-- 01 - Organizacja [html](w01.html) | [pdf](pdf/w01.pdf)
-- 02 - Eksperymenty, wprowadzenie [html](w02.html) | [pdf](pdf/w02.pdf)
+- 01 - Organizacja [html](w01.html) [pdf](pdf/w01.pdf)
+- 02 - Eksperymenty, wprowadzenie [html](w02.html) [pdf](pdf/w02.pdf)
+
+
 <!-- 
 - [04 - Plany proste](w04.html)
 - [05 - Powtarzany pomiar](w05.html)
@@ -60,14 +63,14 @@ Kolokwium 1 z MBP2 odbędzie się 7 listopada 2025 o godzinie 8.45 w **sali CBM 
 -->
 
 
-# Organizacja
+## Organizacja
 
-## Wykłady 
+### Wykłady 
 
 Piątki, 8:45 - 10:15, cały semestr, Zoom.
 
 
-## Ćwiczenia
+### Ćwiczenia
 
 CMI_3/DD/06
 
@@ -77,7 +80,7 @@ CMI_3/DD/06
 - gr. A (9.10.2025, 23.10.2025) 
 
 
-## Laboratoria
+### Laboratoria
 
 - gr. A 9.45 - 11.15
 - gr. B 11.30 - 13.00
@@ -109,7 +112,7 @@ Sale wg. planu zajęć.
 - PsychoPy documentation. https://www.psychopy.org/PsychoPyManual.pdf
 
 
-# Psychopy
+## Psychopy
 
 Zamieszczam linki do materiałów, które mogą okazać się przydatne w starciu z trudnościami wszelakimi:
 - Polecam korzystać z materiałów tego pana. Ma tam playlistę z tutorialami: [Jason Ozubko - Getting Started with PsychoPy, Part 1](https://youtu.be/GSv60zgQlB8)
