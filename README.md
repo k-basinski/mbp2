@@ -23,7 +23,7 @@ Kolokwium 1 z MBP2 odbędzie się 7 listopada 2025 o godzinie 8.45 w **sali CBM 
 
 ## Ćwiczenia
 
-- [Powtórka z pierwszego roku](w02.html)
+- [Powtórka z pierwszego roku](cw_powtorka.html)
 
 
 
