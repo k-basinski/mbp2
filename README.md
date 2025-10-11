@@ -58,7 +58,7 @@ Sale wg. planu zajęć.
 - ustalcie sposób mierzenia zmiennej zależnej 
 - na następnych zajęciach zaprezentujcie nam to, co ustaliliście 
 
-Dodatkowo proszę, żeby przynajmniej jedna osoba z grupy przyniosła na kolejne zajęcia laptop z zainstalowanym programem PsychoPy (instrukcja instalacji znajduje się niżej na stronie). 
+##### Dodatkowo proszę, żeby przynajmniej jedna osoba z grupy przyniosła na kolejne zajęcia laptop z zainstalowanym programem PsychoPy (instrukcja instalacji znajduje się niżej na stronie). 
 ---
 **Zadanie zaliczeniowe - wstęp do artykułu** <br>
 Deadline: 28.10.2025 23:59 <br>
