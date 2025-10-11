@@ -52,7 +52,22 @@ CMI_3/DD/06
 - gr. C 8.00 - 9.30
 
 Sale wg. planu zajęć.
+---
+**Zadanie domowe na następne zajęcia (15/10/2025):**
+- dokładnie i precyzyjnie ustalcie bodźce, które będą użyte w badaniu 
+- ustalcie sposób mierzenia zmiennej zależnej 
+- na następnych zajęciach zaprezentujcie nam to, co ustaliliście 
 
+Dodatkowo proszę, żeby przynajmniej jedna osoba z grupy przyniosła na kolejne zajęcia laptop z zainstalowanym programem PsychoPy (instrukcja instalacji znajduje się niżej na stronie). 
+---
+**Zadanie zaliczeniowe - wstęp do artykułu** <br>
+Deadline: 28.10.2025 23:59 <br>
+Prace wysyłamy na adres anielabrzezinska@gumed.edu.pl
+
+Za pracę można otrzymać 6 punktów. Kryteria oceny pracy:
+* czy przegląd literatury jest rzetelny (min. 5 artykułów), a źródła są dobrej jakości?
+* czy struktura jest poprawna i zgodna ze standardami APA7, a tekst napisany starannie i poprawnie językowo?
+* czy ciąg myślowy zaprezentowany we wstępie, opiera się na literaturze, jest logicznie spójny oraz uzasadnia postawione hipotezy?
 
 <!-- 
 ## Kryteria oceny projektów
