@@ -52,13 +52,15 @@ CMI_3/DD/06
 - gr. C 8.00 - 9.30
 
 Sale wg. planu zajęć.
+
 ---
 **Zadanie domowe na następne zajęcia (15/10/2025):**
 - dokładnie i precyzyjnie ustalcie bodźce, które będą użyte w badaniu 
 - ustalcie sposób mierzenia zmiennej zależnej 
 - na następnych zajęciach zaprezentujcie nam to, co ustaliliście 
 
-##### Dodatkowo proszę, żeby przynajmniej jedna osoba z grupy przyniosła na kolejne zajęcia laptop z zainstalowanym programem PsychoPy (instrukcja instalacji znajduje się niżej na stronie). 
+Dodatkowo proszę, żeby przynajmniej jedna osoba z grupy przyniosła na kolejne zajęcia laptop z zainstalowanym programem PsychoPy (instrukcja instalacji znajduje się niżej na stronie). 
+
 ---
 **Zadanie zaliczeniowe - wstęp do artykułu** <br>
 Deadline: 28.10.2025 23:59 <br>
