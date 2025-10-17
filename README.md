@@ -58,7 +58,8 @@ Sale wg. planu zajęć.
 Wyślijcie na adres anielabrzezinska@gumed.edu.pl następujące informacje o Waszych projektach: 
 - wstępny tytuł projektu
 - zmienną zależną i dokładny sposób jej pomiaru (jaki kwestionariusz, jakie zadanie, jakie pytania)
-- zmienne niezależne, ich poziomy oraz konkretne bodźce 
+- zmienne niezależne, ich poziomy oraz konkretne bodźce
+- wstępną wersję procedury badania
 
 ---
 **Zadanie zaliczeniowe - wstęp do artykułu** <br>
