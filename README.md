@@ -26,8 +26,26 @@ Kolokwium 1 z MBP2 odbędzie się 7 listopada 2025 o godzinie 8.45 w **sali CBM 
 
 - [Powtórka z pierwszego roku](cw_powtorka.html)
 
-
-
+**Przykładowe pytania powtórkowe przed kolokwium**
+- Dlaczego psychologia jest nauką empiryczną?
+- Czym różni się metoda naukowa od innych form poznania?
+- Co oznacza, że teoria jest falsyfikowalna? Podaj przykład niefalsyfikowalnej teorii.
+- Jaka jest różnica między falsyfikowalnością a falsyfikacją?
+- Jakie są cechy dobrej teorii naukowej? (4)
+- Teoria naukowa zostaje potwierdzona wynikami różnych badań. Czy to oznacza, że jest to dobra teoria?
+- Wyjaśnij problem indukcji.
+- Wymień korzyści płynące ze stosowania definicji operacyjnych w psychologii.
+- Wymień największe wyzwania w operacjonalizacji zmiennych.
+- Jakie są cele metody naukowej?
+- W jaki sposób można przeciwdziałać wyrządzeniu krzywdy uczestnikom badań?
+- W jakich wypadkach dopuszcza się zwolnienie badaczy z wymogu uzyskania świadomej zgody od uczestników badania?
+- Co pozwala przyznać autorstwo osobie publikującej artykuł opisujący wyniki badania?
+- Wymień cztery rodzaje skal pomiarowych i podaj przykład każdej z nich.
+- Na czym polega trafność pomiaru?
+- Na czym polega rzetelność pomiaru?
+- Wyjaśnij, czym jest błąd pomiaru.
+- Kiedy błąd pomiaru będzie dążył do zera?
+- Czym badanie korelacyjne różni się od eksperymentu?
 
 ## Organizacja
 
@@ -55,12 +73,12 @@ CMI_3/DD/06
 Sale wg. planu zajęć.
 
 ---
-**Zadanie domowe na następne zajęcia (15/10/2025):**
-- dokładnie i precyzyjnie ustalcie bodźce, które będą użyte w badaniu 
-- ustalcie sposób mierzenia zmiennej zależnej 
-- na następnych zajęciach zaprezentujcie nam to, co ustaliliście 
-
-Dodatkowo proszę, żeby przynajmniej jedna osoba z grupy przyniosła na kolejne zajęcia laptop z zainstalowanym programem PsychoPy (instrukcja instalacji znajduje się niżej na stronie). 
+**Zadanie domowe do 21.10.2025 23:59** <br>
+Wyślijcie na adres anielabrzezinska@gumed.edu.pl następujące informacje o Waszych projektach:
+- wstępny tytuł projektu
+- zmienną zależną i dokładny sposób jej pomiaru (jaki kwestionariusz, jakie zadanie, jakie pytania)
+- zmienne niezależne, ich poziomy oraz konkretne bodźce
+- wstępną wersję procedury badania
 
 ---
 **Zadanie zaliczeniowe - wstęp do artykułu** <br>
