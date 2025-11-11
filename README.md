@@ -2,7 +2,7 @@
 
 ## Aktualności
 
-Kolokwium 1 z MBP2 odbędzie się 7 listopada 2025 o godzinie 8.45 w **sali CBM C**.
+
 
 
 ## Wykłady
@@ -10,7 +10,8 @@ Kolokwium 1 z MBP2 odbędzie się 7 listopada 2025 o godzinie 8.45 w **sali CBM 
 - 01 - Organizacja [html](w01.html) [pdf](pdf/w01.pdf)
 - 02 - Eksperymenty, wprowadzenie [html](w02.html) [pdf](pdf/w02.pdf)
 - 03 - Plany proste[html](w03.html) [pdf](pdf/w03.pdf)
-- 04 - Powtarzany pomiar[html](w04.html) [pdf](pdf/w04.pdf)
+- 04 - Powtarzany pomiar [html](w04.html) [pdf](pdf/w04.pdf)
+- 05 - Plany złożone [html](w05.html) [pdf](pdf/w05.pdf)
 
 
 <!-- 
