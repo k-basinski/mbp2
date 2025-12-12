@@ -1,6 +1,8 @@
 library(dplyr)
 library(ggplot2)
 library(readr)
+library(lme4)
+
 dane <- read_csv("dane.csv")
 
 dane
@@ -51,7 +53,7 @@ ggplot(data = dane, mapping = aes(
   color = trudnosc
   )) +
   geom_boxplot() + 
-  geom_jitter(alpha = .5)
+  geom_jitter(width=0.1, height=0.1, alpha = .5)
 
 
 # Efekty proste:

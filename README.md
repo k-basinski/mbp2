@@ -12,12 +12,12 @@
 - 03 - Plany proste[html](w03.html) [pdf](pdf/w03.pdf)
 - 04 - Powtarzany pomiar [html](w04.html) [pdf](pdf/w04.pdf)
 - 05 - Plany złożone [html](w05.html) [pdf](pdf/w05.pdf)
+- 06 - Analiza planów złożonych [zip](plany_zlozone/analiza.zip)
 
 
 <!-- 
 - [05 - Powtarzany pomiar](w05.html)
 - [06 - Plany złożone](w06.html)
-- [07 - Analiza planów złożonych](plany_zlozone/analiza.zip)
 - [08 - RCT](w08.html)
 - [09 - Quasi-eksperymenty](w09.html)
 - [10 - Kryzys replikowalności i kulty cargo](replikowalnosc_cargo.pdf) 
@@ -47,6 +47,25 @@
 - Wyjaśnij, czym jest błąd pomiaru.
 - Kiedy błąd pomiaru będzie dążył do zera?
 - Czym badanie korelacyjne różni się od eksperymentu?
+
+## Przykładowy skrypt do analizy danych
+
+Zakładając dwuczynnikowy plan złożony z powtarzanym pomiarem, gdzie:
+- `wynik` to zmienna zależna, 
+- `pobudzenie` to czynnik 1,
+- `walencja` to czynnik 2,
+- `pid` to identyfikator osoby badanej,
+- `df` to zmienna ze zbiorem danych
+
+Możemy wykorzystać poniższy skrypt do policzenia anovy (modeli mieszanych) i istotności efektów prostych:
+
+```r
+lmer_model <- lmer(wynik ~ pobudzenie + walencja + pobudzenie:walencja + (1|pid), data = df)
+anova(lmer_model)
+
+emm <- emmeans(lmer_model, ~ pobudzenie*walencja)
+pairs(emm, simple="each")
+```
 
 ## Organizacja
 

@@ -1,15 +1,20 @@
-library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(lme4)
+library(lmerTest)
+library(emmeans)
 
 df <- read_csv("dane1.csv")
 
-
+df
 df %>% 
   group_by(pobudzenie, walencja) %>% 
   summarize(M = mean(wynik), SD = sd(wynik))
 
 ggplot(df, aes(x = pobudzenie, y = wynik, color = walencja)) +
   geom_boxplot() + 
-  geom_jitter(width = .5, alpha = .5)
+  geom_jitter(width = .1, alpha = .5)
 
 aov(wynik ~ pobudzenie + walencja + pobudzenie:walencja, data = df) %>% 
   summary()
@@ -47,6 +52,7 @@ aov(wynik ~ pobudzenie + walencja + pobudzenie:walencja, data = df2) %>%
 # brak efektu prostego walencji przy wysokim pobudzeniu
 # efekt główny pobudzenia
 # brak efektu głównego walencji
+# brak efektu interakcji
 # 
 
 df3 <- read_csv("dane3.csv")
@@ -165,3 +171,15 @@ ggplot(df6, aes(x = walencja, y = wynik)) +
 
 aov(wynik ~ pobudzenie + walencja + pobudzenie:walencja, data = df6) %>% 
   summary()
+
+
+# symulacja pełnego planu z powtarzanym pomiarem
+df6$pid <- c(c(1:30), c(1:30), c(1:30), c(1:30))
+
+df6 %>% group_by(pid) %>% count(pobudzenie, walencja)
+
+lmer_model <- lmer(wynik ~ pobudzenie + walencja + pobudzenie:walencja + (1|pid), data = df6)
+anova(lmer_model)
+
+emm <- emmeans(lmer_model, ~ pobudzenie*walencja)
+pairs(emm, simple="each")
