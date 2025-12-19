@@ -13,12 +13,12 @@
 - 04 - Powtarzany pomiar [html](w04.html) [pdf](pdf/w04.pdf)
 - 05 - Plany złożone [html](w05.html) [pdf](pdf/w05.pdf)
 - 06 - Analiza planów złożonych [zip](plany_zlozone/analiza.zip)
+- 07 - RCT [html](w08.html)
 
 
 <!-- 
 - [05 - Powtarzany pomiar](w05.html)
 - [06 - Plany złożone](w06.html)
-- [08 - RCT](w08.html)
 - [09 - Quasi-eksperymenty](w09.html)
 - [10 - Kryzys replikowalności i kulty cargo](replikowalnosc_cargo.pdf) 
  -->
