@@ -2,7 +2,9 @@
 
 ## Aktualności
 
+Kolokwium 2 z MBP2 odbędzie się 9 stycznia 2026 o godzinie 8:45 w sali CBM C.
 
+Egzamin z MBP2 odbędzie 3 lutego 2026 o godzinie 8:15 w sali CMN_1/D/01.2
 
 
 ## Wykłady
