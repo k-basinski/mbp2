@@ -16,6 +16,7 @@ Egzamin z MBP2 odbędzie 3 lutego 2026 o godzinie 8:15 w sali CMN_1/D/01.2
 - 05 - Plany złożone [html](w05.html) [pdf](pdf/w05.pdf)
 - 06 - Analiza planów złożonych [zip](plany_zlozone/analiza.zip)
 - 07 - RCT [html](w08.html)
+- 08 - Quasi-eksperymenty i eksperymenty naturalne [html](w09.html)
 
 
 <!-- 
