@@ -2,15 +2,16 @@
 
 ## Aktualności
 
-Kolokwium 2 z MBP2 odbędzie się 9 stycznia 2026 o godzinie 8:45 w sali CBM C.
+Kolokwium 1 z MBP2 odbędzie się TBD o godzinie TBD w sali TBD.
 
-Egzamin z MBP2 odbędzie 3 lutego 2026 o godzinie 8:15 w sali CMN_1/D/01.2
+Egzamin z MBP2 odbędzie TBD o godzinie TBD w sali TBD
 
 
 ## Wykłady
 
 - 01 - Organizacja [html](w01.html) [pdf](pdf/w01.pdf)
 - 02 - Eksperymenty, wprowadzenie [html](w02.html) [pdf](pdf/w02.pdf)
+ <!-- 
 - 03 - Plany proste[html](w03.html) [pdf](pdf/w03.pdf)
 - 04 - Powtarzany pomiar [html](w04.html) [pdf](pdf/w04.pdf)
 - 05 - Plany złożone [html](w05.html) [pdf](pdf/w05.pdf)
@@ -19,16 +20,17 @@ Egzamin z MBP2 odbędzie 3 lutego 2026 o godzinie 8:15 w sali CMN_1/D/01.2
 - 08 - Quasi-eksperymenty i eksperymenty naturalne [html](w09.html)
 
 
-<!-- 
+
 - [05 - Powtarzany pomiar](w05.html)
 - [06 - Plany złożone](w06.html)
 - [09 - Quasi-eksperymenty](w09.html)
 - [10 - Kryzys replikowalności i kulty cargo](replikowalnosc_cargo.pdf) 
  -->
 
-## Ćwiczenia
+<!-- ## Ćwiczenia
 
 - [Powtórka z pierwszego roku](cw_powtorka.html)
+
 
 **Przykładowe pytania powtórkowe przed kolokwium**
 - Dlaczego psychologia jest nauką empiryczną?
@@ -69,32 +71,24 @@ anova(lmer_model)
 emm <- emmeans(lmer_model, ~ pobudzenie*walencja)
 pairs(emm, simple="each")
 ```
+-->
 
 ## Organizacja
 
 ### Wykłady 
 
-Piątki, 8:45 - 10:15, cały semestr, Zoom.
-
-
-### Ćwiczenia
-
-CMI_3/DD/06
-
-15.45 - 17.15
-
-- gr. B (2.10.2025, 16.10.2025)
-- gr. A (9.10.2025, 23.10.2025) 
-
+Piątki, 8:30 - 10:00
 
 ### Laboratoria
 
-- gr. A 9.45 - 11.15
-- gr. B 11.30 - 13.00
-- gr. C 8.00 - 9.30
+Środy:
+- grupa 1 8:00-9:40
+- grupa 2 9:45-11:25
+- grupa 3 11:40-13:20
 
 Sale wg. planu zajęć.
 
+<!-- 
 ---
 **Zadanie domowe do 21.10.2025 23:59** <br>
 Wyślijcie na adres anielabrzezinska@gumed.edu.pl następujące informacje o Waszych projektach:
@@ -112,12 +106,12 @@ Za pracę można otrzymać 6 punktów. Kryteria oceny pracy:
 * czy przegląd literatury jest rzetelny (min. 5 artykułów), a źródła są dobrej jakości?
 * czy struktura jest poprawna i zgodna ze standardami APA7, a tekst napisany starannie i poprawnie językowo?
 * czy ciąg myślowy zaprezentowany we wstępie, opiera się na literaturze, jest logicznie spójny oraz uzasadnia postawione hipotezy?
+-->
 
 <!-- 
 ## Kryteria oceny projektów
 
 [Kryteria oceny projektów](kryteria_oceny_projektow) -->
-
 
 ## Syllabus
 
@@ -129,7 +123,7 @@ Za pracę można otrzymać 6 punktów. Kryteria oceny pracy:
 
 - Brzeziński J. Metodologia badań psychologicznych. Wydawnictwo Naukowe PWN, Warszawa 2012.
 
-- Publication Manual of the American Psychological Association, Sixth Edition. CreateSpace Independent Publishing Platform, 2015
+- Publication Manual of the American Psychological Association, Seventh Edition (2020)
 
 - Rajiv S. Jhangiani, I-Chant A. Chiang, Carrie Cuttler, and Dana C. Leighton. Research Methods in Psychology, 4th edition. Open Textbook Library
 
@@ -152,19 +146,23 @@ krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
 
 Konsultacje: piątki, 13:00-14:00 (zdalnie)
 
+<!--
 ### Tomasz Domżalski
 
 tomasz (dot) domzalski (at) gumed (dot) edu (dot) pl 
+-->
 
 ### Aniela Brzezińska
 
 anielabrzezinska (at) gumed (dot) edu (dot) pl
 
+Konsultacje: poniedziałki, 13:00-14:00 (po wcześniejszym umówieniu mailowym)
+
 ### Adres
 
 Zakład Badań nad Jakością Życia
 
-Ul Tuwima 15, pok. 312
+Ul Tuwima 16, pok. 2.16
 
 Gdański Uniwersytet Medyczny
 
