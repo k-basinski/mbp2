@@ -12,7 +12,7 @@ Egzamin z MBP2 odbędzie TBD o godzinie TBD w sali TBD
 - 01 - Organizacja [html](w01.html) [pdf](pdf/w01.pdf)
 - 02 - Eksperymenty, wprowadzenie [html](w02.html) [pdf](pdf/w02.pdf)
   
- <!-- 
+<!-- 
 - 03 - Plany proste[html](w03.html) [pdf](pdf/w03.pdf)
 - 04 - Powtarzany pomiar [html](w04.html) [pdf](pdf/w04.pdf)
 - 05 - Plany złożone [html](w05.html) [pdf](pdf/w05.pdf)
@@ -26,7 +26,7 @@ Egzamin z MBP2 odbędzie TBD o godzinie TBD w sali TBD
 - [06 - Plany złożone](w06.html)
 - [09 - Quasi-eksperymenty](w09.html)
 - [10 - Kryzys replikowalności i kulty cargo](replikowalnosc_cargo.pdf) 
- -->
+-->
 
 <!-- ## Ćwiczenia
 
