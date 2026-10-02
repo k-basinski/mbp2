@@ -11,6 +11,7 @@ Egzamin z MBP2 odbędzie TBD o godzinie TBD w sali TBD
 
 - 01 - Organizacja [html](w01.html) [pdf](pdf/w01.pdf)
 - 02 - Eksperymenty, wprowadzenie [html](w02.html) [pdf](pdf/w02.pdf)
+  
  <!-- 
 - 03 - Plany proste[html](w03.html) [pdf](pdf/w03.pdf)
 - 04 - Powtarzany pomiar [html](w04.html) [pdf](pdf/w04.pdf)
