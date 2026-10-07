@@ -89,6 +89,12 @@ Piątki, 8:30 - 10:00
 
 Sale wg. planu zajęć.
 
+**Zadanie domowe na 14.10.2026**
+Przygotujcie 5-minutową prezentację (może być w wordzie w podpunktach) propozycji Waszego projektu badawczego:
+- na podstawie literatury (!)
+- podajcie zmienną zależną i zmienne niezależne na dwóch poziomach
+- podajcie wstępne pomysły jak to chcecie zbadać
+
 <!-- 
 ---
 **Zadanie domowe do 21.10.2025 23:59** <br>
