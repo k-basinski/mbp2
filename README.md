@@ -135,6 +135,8 @@ Za pracę można otrzymać 6 punktów. Kryteria oceny pracy:
 
 - PsychoPy documentation. https://www.psychopy.org/PsychoPyManual.pdf
 
+- [Polskie standardy edytorskie APA7](https://apa7.liberilibri.pl/pdf/Skimina-Harasimczuk-Cieciuch(2022)-APA7-PL.pdf)
+
 
 ## Psychopy
 
