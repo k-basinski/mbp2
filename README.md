@@ -109,10 +109,9 @@ Za pracę można otrzymać 6 punktów. Kryteria oceny pracy:
 * czy ciąg myślowy zaprezentowany we wstępie, opiera się na literaturze, jest logicznie spójny oraz uzasadnia postawione hipotezy?
 -->
 
-<!-- 
 ## Kryteria oceny projektów
 
-[Kryteria oceny projektów](kryteria_oceny_projektow) -->
+[Kryteria oceny projektów](kryteria_oceny_projektow) 
 
 ## Syllabus
 
