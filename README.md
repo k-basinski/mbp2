@@ -9,6 +9,7 @@ Egzamin z MBP2 odbędzie TBD o godzinie TBD w sali TBD
 
 ## Wykłady
 
+- [Powtórka z pierwszego roku](cw_powtorka.html)
 - 01 - Organizacja [html](w01.html) [pdf](pdf/w01.pdf)
 - 02 - Eksperymenty, wprowadzenie [html](w02.html) [pdf](pdf/w02.pdf)
   
@@ -30,7 +31,6 @@ Egzamin z MBP2 odbędzie TBD o godzinie TBD w sali TBD
 
 <!-- ## Ćwiczenia
 
-- [Powtórka z pierwszego roku](cw_powtorka.html)
 
 
 **Przykładowe pytania powtórkowe przed kolokwium**
