@@ -339,4 +339,3 @@ $$ wynik testu = wynik prawdziwy + błąd $$
 
 * Trafność i rzetelność to nie tylko problemy testów psychologicznych
 * Test wysoce rzetelny może być kompletnie nietrafny. 
-* Test trafny może być kompletnie nierzetelny.
