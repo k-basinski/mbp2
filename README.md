@@ -95,6 +95,14 @@ Przygotujcie 5-minutową prezentację (może być w wordzie w podpunktach) propo
 - podajcie zmienną zależną i zmienne niezależne na dwóch poziomach
 - podajcie wstępne pomysły jak to chcecie zbadać
 
+**Zadanie domowe na 21.10.2026**
+Na zajęciach poproszę o zaprezentowanie: 
+- zmiennych niezależnych na dwóch poziomach + zmiennej zależnej
+- konkretne sposoby pomiaru oparte na literaturze - tak jak rozmawialiśmy na zajęciach
+- jeśli użyjecie piosenek - zaprezentujcie jakich; jeśli obrazków - pokażcie je; jeśli słów - zaprezentujcie
+- podejmijcie decyzję o tym, czy robicie to w PsychoPy? Powerpoincie? Na żywo?
+- jakie będą grupy badane (i dlaczego) i jak przeprowadzicie randomizację?
+  
 <!-- 
 ---
 **Zadanie domowe do 21.10.2025 23:59** <br>
