@@ -102,6 +102,13 @@ Na zajęciach poproszę o zaprezentowanie:
 - jeśli użyjecie piosenek - zaprezentujcie jakich; jeśli obrazków - pokażcie je; jeśli słów - zaprezentujcie
 - podejmijcie decyzję o tym, czy robicie to w PsychoPy? Powerpoincie? Na żywo?
 - jakie będą grupy badane (i dlaczego) i jak przeprowadzicie randomizację?
+
+---
+
+**Zadanie zaliczeniowe - wstęp do artykułu** <br>
+Deadline: 03.11.2026 23:59 <br>
+Prace wysyłacie na adres anielabrzezinska@gumed.edu.pl
+Za pracę można otrzymać 10 punktów. Kryteria oceny pracy są zawarte w kryteriach oceny całego projektu badawczego. 
   
 <!-- 
 ---
@@ -113,14 +120,7 @@ Wyślijcie na adres anielabrzezinska@gumed.edu.pl następujące informacje o Was
 - wstępną wersję procedury badania
 
 ---
-**Zadanie zaliczeniowe - wstęp do artykułu** <br>
-Deadline: 28.10.2025 23:59 <br>
-Prace wysyłamy na adres anielabrzezinska@gumed.edu.pl
 
-Za pracę można otrzymać 6 punktów. Kryteria oceny pracy:
-* czy przegląd literatury jest rzetelny (min. 5 artykułów), a źródła są dobrej jakości?
-* czy struktura jest poprawna i zgodna ze standardami APA7, a tekst napisany starannie i poprawnie językowo?
-* czy ciąg myślowy zaprezentowany we wstępie, opiera się na literaturze, jest logicznie spójny oraz uzasadnia postawione hipotezy?
 -->
 
 ## Kryteria oceny projektów
