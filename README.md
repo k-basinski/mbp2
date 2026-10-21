@@ -89,6 +89,7 @@ Piątki, 8:30 - 10:00
 
 Sale wg. planu zajęć.
 
+<!--
 **Zadanie domowe na 14.10.2026**
 Przygotujcie 5-minutową prezentację (może być w wordzie w podpunktach) propozycji Waszego projektu badawczego:
 - na podstawie literatury (!)
@@ -102,6 +103,11 @@ Na zajęciach poproszę o zaprezentowanie:
 - jeśli użyjecie piosenek - zaprezentujcie jakich; jeśli obrazków - pokażcie je; jeśli słów - zaprezentujcie
 - podejmijcie decyzję o tym, czy robicie to w PsychoPy? Powerpoincie? Na żywo?
 - jakie będą grupy badane (i dlaczego) i jak przeprowadzicie randomizację?
+-->
+
+### WAŻNE
+
+Przed rozpoczęciem waszych eksperymentów należy wysłać na adres anielabrzezinska@gumed.edu.pl wzór świadomej zgody dla badanego. Dopiero po otrzymaniu zielonego światła od prowadzącej można rozpocząć badanie.
 
 ---
 
@@ -109,6 +115,13 @@ Na zajęciach poproszę o zaprezentowanie:
 Deadline: 03.11.2026 23:59 <br>
 Prace wysyłacie na adres anielabrzezinska@gumed.edu.pl
 Za pracę można otrzymać 10 punktów. Kryteria oceny pracy są zawarte w kryteriach oceny całego projektu badawczego. 
+
+---
+
+**Zaliczenie przedmiotu - artykuył naukowy** <br>
+Deadline: 24.01.2027 23:59 <br>
+Wysłać na anielabrzezinska@gumed.edu.pl; DW k.basinski@gumed.edu.pl <br>
+Za pracę można otrzymać 25 punktów, kryteria oceny pracy są zawarte w kryteriach oceny całego projektu badawczego.
   
 <!-- 
 ---
