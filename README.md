@@ -109,6 +109,10 @@ Na zajęciach poproszę o zaprezentowanie:
 
 Przed rozpoczęciem waszych eksperymentów należy wysłać na adres anielabrzezinska@gumed.edu.pl wzór świadomej zgody dla badanego. Dopiero po otrzymaniu zielonego światła od prowadzącej można rozpocząć badanie.
 
+
+##### Zadanie na 28.10.2026
+Zaprezentujcie kryteria włączenia i wyłączenia do Waszego badania.
+
 ---
 
 **Zadanie zaliczeniowe - wstęp do artykułu** <br>
