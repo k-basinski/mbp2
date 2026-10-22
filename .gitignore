@@ -3,3 +3,5 @@ listy/
 artykuly/
 .DS_Store
 .Rproj.user
+.vscode
+.ipynb_checkpoints
