@@ -13,9 +13,9 @@ def make_plot(means, fname):
     N = 30
     make_plots = True
     reroll_distributions = False # roll new values for each level
-    f1_name = 'ciastko'
-    f2_name = 'szoki'
-    dv_name = 'wynik'
+    f1_name = 'hymn'
+    f2_name = 'kalosze'
+    dv_name = 'prospołeczność'
 
     labels_factor1 = ['tak', 'nie']
     labels_factor2 = ['tak', 'nie']
@@ -58,4 +58,19 @@ make_plot([10, 20, 10, 20], 'plot_k2_25_5.png')
 make_plot([40, 20, 40, 30], 'plot_k2_25_6.png')
 make_plot([10, 20, 30, 30], 'plot_k2_25_7.png')
 make_plot([10, 20, 20, 20], 'plot_k2_25_8.png')
+
+make_plot([20, 20, 10, 20], 'plot_k2_25_9.png')
+make_plot([10, 20, 40, 30], 'plot_k2_25_10.png')
+make_plot([20, 20, 30, 30], 'plot_k2_25_11.png')
+make_plot([10, 20, 10, 20], 'plot_k2_25_12.png')
+
+make_plot([20, 20, 10, 10], 'plot_k2_25_13.png')
+make_plot([10, 20, 40, 30], 'plot_k2_25_14.png')
+make_plot([20, 20, 10, 30], 'plot_k2_25_15.png')
+make_plot([10, 10, 10, 10], 'plot_k2_25_16.png')
+
+make_plot([20, 20, 10, 20], 'plot_e1_25_17.png')
+make_plot([10, 20, 50, 30], 'plot_e1_25_18.png')
+make_plot([20, 20, 30, 30], 'plot_e1_25_19.png')
+make_plot([10, 20, 10, 20], 'plot_e1_25_20.png')
 # %%
