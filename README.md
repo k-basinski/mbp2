@@ -166,7 +166,7 @@ Wyślijcie na adres anielabrzezinska@gumed.edu.pl następujące informacje o Was
 ## Psychopy
 
 Zamieszczam linki do materiałów, które mogą okazać się przydatne w starciu z trudnościami wszelakimi:
-- Tutorial o pętlach i randomizacji: [Getting Started with PsychoPy (Part 2) | Loops, Variables, Online Experiments | PsychoPy Help #2](https://www.youtube.com/watch?v=5ZDVOfGFwWI)
+- Tutorial o pętlach i randomizacji: [Getting Started with PsychoPy Part 2](https://www.youtube.com/watch?v=5ZDVOfGFwWI)
 - Pierwsza część tego samego tutorialu: [Jason Ozubko - Getting Started with PsychoPy, Part 1](https://youtu.be/GSv60zgQlB8)
 - Tutaj na kanale też można znaleźć wsparcie: [How to check if a typed response is 'correct' in PsychoPy](https://youtu.be/-Fto45M7bS0)
 - A tutaj jest cała zakładka z materiałami dla PSYCHOPY, taki e-learning przedstawiony w przystępny sposób, krótkie know how basics: [Chapter 10 - PsychoPy basics](https://psychology.nottingham.ac.uk/staff/lpzjd/psgy1001-21/psychopy-basics.html)
